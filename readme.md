@@ -32,7 +32,7 @@ SuRE (Survey of Regulatory Elements) is a high-throughput assay used to study ge
 ## 🚀 Getting Started
 
 To begin your journey with SuREVizHeart:  
-1. Access the platform here: **[SuREVizHeart](http://192.168.107.99:6197)**  
+1. Access the platform here: **[SuREVizHeart](http://195.114.233.102:3838/)**  
 2. Liftover your queries to hg38 genome assembly before using the application. 
 
 ---
