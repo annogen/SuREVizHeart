@@ -44,7 +44,7 @@ Get started quickly with our detailed step-by-step tutorial:
 👉 **[SuREVizHeart Tutorial](https://vartikabisht6197.github.io/SuREVizHeart/SuREVizHeartTutorial.html)** 👈  
 
 
-## MIT License
+## 📝 MIT License
 
 Copyright (c) 2025 annogen
 
